@@ -1,0 +1,1 @@
+This is just a simple set of scripts to accompany a recent paper and presentation on ECC.
